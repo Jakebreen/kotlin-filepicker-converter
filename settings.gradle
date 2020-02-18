@@ -1,0 +1,2 @@
+include ':library', ':testapp'
+rootProject.name='kotlin-filepicker-converter'
